@@ -1,0 +1,109 @@
+Receipt #1
+Date: 03/07/22
+Time: 19:56:27
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+Total:                   1,12      
+To pay:                  1,12      
+Receipt #2
+Date: 03/07/22
+Time: 19:56:58
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+Total:                   1,12      
+To pay:                  1,12      
+Receipt #3
+Date: 03/07/22
+Time: 19:58:56
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+Total:                   1,12      
+To pay:                  1,12      
+Receipt #4
+Date: 03/07/22
+Time: 19:59:18
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+Total:                   1,12      
+To pay:                  1,12      
+Receipt #5
+Date: 03/07/22
+Time: 19:59:47
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+Total:                   1,12      
+To pay:                  1,12      
+Receipt #6
+Date: 03/07/22
+Time: 20:00:10
+#    Name                Price     Promo     To Pay    
+3    Apple               1,68      0,00      1,68      
+Total:                   1,68      
+To pay:                  1,68      
+Receipt #7
+Date: 03/07/22
+Time: 20:00:36
+#    Name                Price     Promo     To Pay    
+3    Apple               1,68      0,00      1,68      
+Total:                   1,68      
+To pay:                  1,68      
+Receipt #8
+Date: 03/07/22
+Time: 20:00:52
+#    Name                Price     Promo     To Pay    
+3    Apple               1,68      0,00      1,68      
+Total:                   1,68      
+To pay:                  1,68      
+Receipt #9
+Date: 03/07/22
+Time: 20:02:10
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+Total:                   1,12      
+To pay:                  1,12      
+Receipt #10
+Date: 03/07/22
+Time: 20:02:25
+#    Name                Price     Promo     To Pay    
+3    Apple               1,68      0,00      1,68      
+Total:                   1,68      
+To pay:                  1,68      
+Receipt #11
+Date: 03/07/22
+Time: 20:08:02
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+4    Pineapple           8,60      0,00      8,60      
+Total:                   9,72      
+To pay:                  9,72      
+Receipt #12
+Date: 03/07/22
+Time: 20:08:40
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+4    Pineapple           8,60      0,00      8,60      
+Total:                   9,72      
+To pay:                  9,72      
+Receipt #13
+Date: 03/07/22
+Time: 20:11:08
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+4    Pineapple           8,60      0,00      8,60      
+Total:                   9,72      
+To pay:                  9,72      
+Receipt #14
+Date: 03/07/22
+Time: 20:17:51
+#    Name                Price     Promo     To Pay    
+2    Apple               1,12      0,00      1,12      
+4    Pineapple           8,60      0,00      8,60      
+Total:                   9,72      
+To pay:                  9,72      
+Receipt #15
+Date: 03/07/22
+Time: 20:18:33
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
