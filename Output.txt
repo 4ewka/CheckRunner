@@ -107,3 +107,178 @@ Time: 20:18:33
 1    Apple               0,56      0,00      0,56      
 Total:                   0,56      
 To pay:                  0,56      
+Receipt #16
+Date: 03/10/22
+Time: 21:44:26
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #17
+Date: 03/10/22
+Time: 21:53:29
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #18
+Date: 03/10/22
+Time: 21:54:44
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #19
+Date: 03/10/22
+Time: 21:55:23
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #20
+Date: 03/10/22
+Time: 21:59:46
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #21
+Date: 03/10/22
+Time: 22:00:21
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #22
+Date: 03/10/22
+Time: 22:02:48
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #23
+Date: 03/10/22
+Time: 22:18:57
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #24
+Date: 03/10/22
+Time: 22:25:41
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #25
+Date: 03/10/22
+Time: 22:45:39
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #26
+Date: 03/10/22
+Time: 22:46:30
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #27
+Date: 03/10/22
+Time: 22:49:09
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #28
+Date: 03/10/22
+Time: 22:50:59
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #29
+Date: 03/10/22
+Time: 22:51:10
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #30
+Date: 03/10/22
+Time: 22:51:57
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #31
+Date: 03/10/22
+Time: 22:55:37
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #32
+Date: 03/10/22
+Time: 22:59:41
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #33
+Date: 03/10/22
+Time: 23:00:29
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #34
+Date: 03/10/22
+Time: 23:01:05
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #35
+Date: 03/10/22
+Time: 23:13:41
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #36
+Date: 03/10/22
+Time: 23:14:27
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #37
+Date: 03/11/22
+Time: 00:02:01
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #38
+Date: 03/11/22
+Time: 00:05:34
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #39
+Date: 03/11/22
+Time: 00:06:49
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      
+Receipt #40
+Date: 03/11/22
+Time: 00:11:29
+#    Name                Price     Promo     To Pay    
+1    Apple               0,56      0,00      0,56      
+Total:                   0,56      
+To pay:                  0,56      

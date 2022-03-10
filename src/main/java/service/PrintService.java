@@ -2,9 +2,7 @@ package service;
 
 import model.Receipt;
 
-import java.io.FileNotFoundException;
-import java.io.FileOutputStream;
-import java.io.PrintStream;
+import java.io.*;
 import java.math.BigDecimal;
 import java.util.Calendar;
 import java.util.Objects;
@@ -46,5 +44,13 @@ public class PrintService {
     public void receiptStream(int receiptNumber) throws FileNotFoundException {
         PrintStream printStream = new PrintStream(new FileOutputStream("ReceiptNumber.txt"));
         printStream.print(++receiptNumber);
+    }
+
+    public void streamBaseValidate(String str, File file) {
+        try (PrintStream printStream = new PrintStream (new FileOutputStream(file,true))) {
+            printStream.println(str);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

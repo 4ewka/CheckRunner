@@ -1,5 +1,5 @@
 1;Apple;1.02;y
-2;Pineapple;2.65;y
+1;Pineapple;2.65;y
 3;Cat;48.65;y
 4;Dog;45.58;y
 5;Pasta;3.69;y
