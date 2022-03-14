@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class ValidateBaseService {
 
-    public static final String REGEX = "^([1-9][0-9]?|100);[A-Z]\\w{2,29};([1-9][0-9]?|100).\\d{2};[yn]$";
+    public static final String REGEX = "^([1-9][0-9]?|100);[A-Z]\\w{2,29};([1-9]\\d?.\\d{2}|100.00);[yn]$";
 
     public void validateBase() {
 
