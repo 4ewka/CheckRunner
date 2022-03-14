@@ -19,17 +19,12 @@ public class InputVerification {
     }
 
     public void validateInputString(String[] arr) {
-        InputParsingService inputParsingService = new InputParsingService();
         int n = arr.length;
         if (containsCard(arr)) n--;
         checkArgsLength(arr);
         for (int i = 0; i < n; i++) {
             if (!arr[i].matches("\\d+-\\d+")) {
                 log.log(Level.SEVERE, "Invalid input format");
-                System.exit(0);
-            }
-            if (inputParsingService.getId(arr[i]) > n) {
-                log.log(Level.SEVERE, "ID not found");
                 System.exit(0);
             }
         }

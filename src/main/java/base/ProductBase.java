@@ -1,19 +1,39 @@
 package base;
 
+import constants.PathConstant;
 import model.Product;
 
-import java.math.BigDecimal;
+import java.io.File;
+import java.io.IOException;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 public class ProductBase {
+    private final Map<Integer, Product> snapshot;
+
+    public ProductBase() {
+        Map<Integer, Product> database = new HashMap<>();
+        File file = new File(PathConstant.VALID_BASE);
+        String str;
+        try {
+            Scanner scanner = new Scanner(file);
+            while (scanner.hasNextLine()) {
+                str = scanner.nextLine();
+                Product product = new Product(str);
+                if (database.put(product.getId(), product) != null) {
+                    System.out.println(("Contains multiple IDs: " + product.getId() +
+                            "\nPlease check the input"));
+                    System.exit(0);
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        this.snapshot = database;
+    }
 
     public Map<Integer, Product> getSnapshot() {
-        Map<Integer, Product> database = new HashMap<>();
-        database.put(1, new Product("Apple", BigDecimal.valueOf(0.56), true));
-        database.put(2, new Product("Pineapple", BigDecimal.valueOf(2.15), true));
-        database.put(3, new Product("Feed", BigDecimal.valueOf(2.65), false));
-        database.put(4, new Product("Cola", BigDecimal.valueOf(1.5), false));
-        return database;
+        return snapshot;
     }
 }

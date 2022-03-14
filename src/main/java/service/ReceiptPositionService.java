@@ -8,10 +8,17 @@ import model.ReceiptPosition;
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 import java.util.Map;
+import java.util.logging.Level;
+import java.util.logging.Logger;
 
 public class ReceiptPositionService {
     public ReceiptPosition createReceiptPosition(InputProduct inputProduct) {
         ReceiptPosition receiptPosition = new ReceiptPosition();
+        Logger log = Logger.getLogger(InputVerification.class.getSimpleName());
+        if (getProduct(inputProduct.getId()) == null) {
+            log.log(Level.SEVERE, "ID not found");
+            System.exit(0);
+        }
         Product product = getProduct(inputProduct.getId());
         int positionCount = inputProduct.getQuantity();
         receiptPosition.setCount(positionCount);
