@@ -10,10 +10,9 @@ import java.util.Scanner;
 
 public class ValidateBaseService {
 
-    public static final String REGEX = "^([1-9][0-9]?|100);[A-Z]\\w{2,29};([1-9]\\d?\\.\\d{2}|100.00);[yn]$";
+    public static final String REGEX = "^([1-9][0-9]?|100);[A-Z]\\w{2,29};([1-9]\\d?\\.\\d{2}|100\\.00);[yn]$";
 
     public void validateBase() {
-
         File base = new File(PathConstant.BASE);
         File validBase = new File(PathConstant.VALID_BASE);
         File invalidBase = new File(PathConstant.INVALID_BASE);
