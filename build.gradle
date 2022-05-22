@@ -1,3 +1,6 @@
+import javax.imageio.ImageIO
+import java.awt.image.BufferedImage
+
 plugins {
     id 'java'
 }
@@ -16,4 +19,31 @@ dependencies {
 
 test {
     useJUnitPlatform()
+}
+
+class Downloader extends DefaultTask {
+    @Input
+    String urlAddress
+
+    @OutputFile
+    File outputFile
+
+    @TaskAction
+    void download() {
+        URL url = new URL(urlAddress)
+        try {
+            BufferedImage image = ImageIO.read(url)
+            ImageIO.write(image, "png", outputFile)
+        }
+        catch (IOException e) {
+            e.printStackTrace()
+        }
+    }
+}
+
+task downloadImg(type: Downloader) {
+    urlAddress = "https://check.ofd.ru/assets/bottom-check.ecc8e7e.png"
+    String fileName = "build/imgs/" + urlAddress.substring(urlAddress.lastIndexOf('/'), urlAddress.length())
+    outputFile = new File(fileName)
+
 }
